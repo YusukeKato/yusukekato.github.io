@@ -1,7 +1,7 @@
 # YKpages: YusukeKatoPages
 YKpages is YusukeKato's notes.
 
-<img src="https://github.com/YusukeKato/YusukeKatoBlog/blob/main/images/BlueTreeIcon.jpg" width="20%">
+![](https://github.com/YusukeKato/YusukeKatoBlog/blob/main/images/BlueTreeIcon.jpg)
 
 ## Links
 - [GitHub - YusukeKato](https://github.com/YusukeKato)
