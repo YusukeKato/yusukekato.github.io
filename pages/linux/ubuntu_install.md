@@ -18,4 +18,4 @@
 1. USBメモリからUbuntuを起動
 2. 手順に従ってインストールを実施
 
-以上
+![](../../images/BlueTreeIcon_200x200.jpg)
