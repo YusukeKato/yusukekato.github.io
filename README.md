@@ -10,4 +10,5 @@ YKpages is YusukeKato's notes.
 - [SHELLGEI ONLINE JUDGE](https://shellgei-online-judge.com/)
 
 ## Linux
+- [Ubuntu Install](./pages/linux/ubuntu_install.md)
 - [FFmpeg](./pages/linux/ffmpeg.md)
