@@ -12,3 +12,5 @@ ffmpeg -i input.jpg -vf scale=500:-1 output.jpg
 # h=500
 ffmpeg -i input.jpg -vf scale=-1:500 output.jpg
 ```
+
+![](../../images/BlueTreeIcon_200x200.jpg)
