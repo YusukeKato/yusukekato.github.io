@@ -1,4 +1,4 @@
-# YKpages: YusukeKatoPages
+# YKpages
 YKpages is YusukeKato's notes.
 
 ![](./images/BlueTreeIcon_200x200.jpg)
@@ -15,3 +15,4 @@ YKpages is YusukeKato's notes.
 ## Linux
 - [Ubuntu Install](./pages/linux/ubuntu_install.md)
 - [FFmpeg](./pages/linux/ffmpeg.md)
+- [tmux](./pages/linux/tmux.md)
