@@ -2,6 +2,11 @@
 - FFmpegの使い方メモ
 - Official website: [ffmpeg.org](https://www.ffmpeg.org/)
 
+## Install
+```sh
+sudo apt install ffmpeg
+```
+
 ## Resize
 画像や動画の解像度を変更するコマンド
 ```sh
