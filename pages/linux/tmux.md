@@ -18,4 +18,18 @@ sudo apt install tmux
 - Ctrl+b -> %: 左右に分割
 - Ctrl+b -> 矢印キー: ペイン移動
 
+## ~/.tmux.conf
+```sh
+vim ~/.tmux.conf
+```
+
+マウスクリックでペイン切り替え
+```
+set-option -g mouse on
+```
+
+[参考](https://www.tohoho-web.com/ex/tmux.html)
+
 ![](../../images/BlueTreeIcon_200x200.jpg)
+
+[YKpages Home Page](https://yusukekato.github.io/)
