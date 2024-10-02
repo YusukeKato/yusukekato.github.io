@@ -14,5 +14,6 @@ YKpages is YusukeKato's notes.
 
 ## Linux
 - [Ubuntu Install](./pages/linux/ubuntu_install.md)
+- [Ubuntu setup](./pages/linux/ubuntu_setup.md)
 - [FFmpeg](./pages/linux/ffmpeg.md)
 - [tmux](./pages/linux/tmux.md)
