@@ -29,7 +29,7 @@ LANG=C xdg-user-dirs-update --force
 rm -rf デスクトップ ダウンロード テンプレート 公開 ドキュメント ミュージック ピクチャ ビデオ
 sudo reboot
 ```
-参考：https://qiita.com/peachft/items/fde3bebd356c17c1cef6
+[参考](https://qiita.com/peachft/items/fde3bebd356c17c1cef6)
 
 ## Setup git
 ```sh
@@ -44,3 +44,5 @@ git config --global user.email "email"
 - nvidiaドライバの確認
 
 ![](../../images/BlueTreeIcon_200x200.jpg)
+
+[YKpages Home Page](https://yusukekato.github.io/)
