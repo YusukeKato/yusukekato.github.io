@@ -13,7 +13,8 @@ YKpages is YusukeKato's notes.
 - [Lifecycle](./pages/ros2/lifecycle.md)
 
 ## Linux
+- [FFmpeg](./pages/linux/ffmpeg.md)
+- [git](./pages/linux/git.md)
+- [tmux](./pages/linux/tmux.md)
 - [Ubuntu Install](./pages/linux/ubuntu_install.md)
 - [Ubuntu setup](./pages/linux/ubuntu_setup.md)
-- [FFmpeg](./pages/linux/ffmpeg.md)
-- [tmux](./pages/linux/tmux.md)
