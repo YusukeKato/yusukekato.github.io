@@ -14,7 +14,7 @@ YKpages is YusukeKato's notes.
 
 ## Linux
 - [FFmpeg](./pages/linux/ffmpeg.md)
-- [git](./pages/linux/git.md)
+- [Git](./pages/linux/git.md)
 - [tmux](./pages/linux/tmux.md)
 - [Ubuntu Install](./pages/linux/ubuntu_install.md)
 - [Ubuntu setup](./pages/linux/ubuntu_setup.md)
