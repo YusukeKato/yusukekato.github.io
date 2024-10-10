@@ -11,6 +11,7 @@ YKpages is YusukeKato's notes.
 
 ## ROS 2
 - [Lifecycle](./pages/ros2/lifecycle.md)
+- [ROS 2 Install](./pages/ros2/ros2_install.md)
 
 ## Linux
 - [FFmpeg](./pages/linux/ffmpeg.md)
