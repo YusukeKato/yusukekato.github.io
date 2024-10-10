@@ -1,4 +1,21 @@
 # How to use Git
+- gitコマンドの使い方のメモ書き
+
+# Config
+```sh
+git config --global user.name "name"
+git config --global user.email "email"
+```
+
+# Update commit message
+```sh
+# コミット
+git commit -m "old message"
+# コミットメッセージを更新
+git commit --amend -m "new message"
+```
+
+[参考](https://qiita.com/kenose0328/items/185f7e8634d816c85a84)
 
 # Tag
 ```sh
