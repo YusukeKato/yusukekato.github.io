@@ -23,6 +23,9 @@ sudo systemctl enable nginx
 /etc/nginx/nginx.conf
 ```
 
+# Access
+[http://localhost/](http://localhost/)
+
 [参考](https://nginx.org/en/linux_packages.html#Ubuntu)
 
 ![](../../images/BlueTreeIcon_200x200.jpg)
