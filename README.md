@@ -18,6 +18,7 @@ YKpages is YusukeKato's notes.
 ## Linux
 - [FFmpeg](./pages/linux/ffmpeg.md)
 - [Git](./pages/linux/git.md)
+- [nginx](./pages/linux/nginx.md)
 - [NVIDIA Driver Install](./pages/linux/nvidia_driver_install.md)
 - [tmux](./pages/linux/tmux.md)
 - [Ubuntu Install](./pages/linux/ubuntu_install.md)
