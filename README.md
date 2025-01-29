@@ -19,6 +19,7 @@ YKpages is YusukeKato's notes.
 - [Ubuntu setup](./pages/linux/ubuntu_setup.md)
 
 ## ROS 2
+- [colcon](./pages/ros2/colcon.md)
 - [Lifecycle](./pages/ros2/lifecycle.md)
 - [ros2_control](./pages/ros2/ros2_control.md)
 - [ROS 2 Install](./pages/ros2/ros2_install.md)
