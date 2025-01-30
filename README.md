@@ -23,6 +23,7 @@ YKpages is YusukeKato's notes.
 - [Lifecycle](./pages/ros2/lifecycle.md)
 - [ros2_control](./pages/ros2/ros2_control.md)
 - [ROS 2 Install](./pages/ros2/ros2_install.md)
+- [rosdep](./pages/ros2/rosdep.md)
 - [URDF and SDF](./pages/ros2/urdf_and_sdf.md)
 
 ## Access GitHub repository
