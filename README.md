@@ -17,6 +17,7 @@ YKpages is YusukeKato's notes.
 - [tmux](./pages/linux/tmux.md)
 - [Ubuntu Install](./pages/linux/ubuntu_install.md)
 - [Ubuntu setup](./pages/linux/ubuntu_setup.md)
+- [Ubuntu tips](./pages/linux/ubuntu_tips.md)
 
 ## ROS 2
 - [colcon](./pages/ros2/colcon.md)
