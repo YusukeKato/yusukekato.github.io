@@ -30,12 +30,13 @@ docker exec -it コンテナID bash
 
 ```sh
 docker exec -it コンテナID コマンド
+docker exec -it コンテナID /bin/bash -c "コマンド"
 ```
 
-## コンテナ内の情報を確認
+## イメージとコンテナの情報を取得
 
 ```sh
-docker inspect コンテナID
+docker inspect イメージID or コンテナID
 ```
 
 ## 削除
