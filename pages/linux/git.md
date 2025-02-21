@@ -1,13 +1,23 @@
 # How to use Git
 - gitコマンドの使い方のメモ書き
+- GitHubのSSHの設定方法
 
-# Config
+## SSH
+```sh
+cd ~/.ssh
+ssh-keygen -t rsa # ex: RSA
+# Register id_rsa.pub on GitHub
+```
+
+[Qiita - GitHubでssh接続する手順](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
+
+## Config
 ```sh
 git config --global user.name "name"
 git config --global user.email "email"
 ```
 
-# Update commit message
+## Update commit message
 ```sh
 # コミット
 git commit -m "old message"
@@ -15,15 +25,19 @@ git commit -m "old message"
 git commit --amend -m "new message"
 ```
 
-[参考](https://qiita.com/kenose0328/items/185f7e8634d816c85a84)
+[Qiita - Git commit メッセージの変更方法](https://qiita.com/kenose0328/items/185f7e8634d816c85a84)
 
-# Tag
+## Tag
 ```sh
+# add
 git tag 1.0.0
+# delete
+git tag -d 1.0.0
+# push to remote
 git push --tags origin
 ```
 
-[参考](https://qiita.com/kuroneco/items/61cd14ed475519d20748)
+[Qiita - Git tagの更新](https://qiita.com/kuroneco/items/61cd14ed475519d20748)
 
 ![](../../images/BlueTreeIcon_200x200.jpg)
 
