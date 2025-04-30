@@ -9,6 +9,8 @@ docker images
 docker ps
 # すべてのコンテナ確認
 docker ps -a
+# ストレージ容量確認
+docker system df
 ```
 
 ## コンテナを起動
@@ -49,7 +51,7 @@ docker rmi イメージID
 ## 環境整理
 イメージを削除してもストレージ容量が変わらない場合に有効だった
 ```sh
-sudo docker system prune
+docker system prune
 ```
 
 [参考：Qiita - Dockerコマンド よく使うやつ](https://qiita.com/Esfahan/items/52141a2ad741933d7d4c)
