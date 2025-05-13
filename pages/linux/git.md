@@ -39,6 +39,21 @@ git push --tags origin
 
 [Qiita - Git tagの更新](https://qiita.com/kuroneco/items/61cd14ed475519d20748)
 
+## 変更を戻す
+```sh
+git clean -fd
+git checkout -- .
+```
+
+[Qiita - Gitでの変更を戻す方法](https://qiita.com/ys-office-llc/items/2a65193fd19894d8e4df)
+
+## 特定のファイルを特定のコミットまで戻す
+```sh
+git restore --source=<commit-id> -- <file-name>
+```
+
+[Zenn - Gitで特定のファイルを過去のコミットに戻す方法](https://zenn.dev/ktrszk/articles/7bac6384b108d6)
+
 ![](../../images/BlueTreeIcon_200x200.jpg)
 
 [YKpages Home Page](https://yusukekato.github.io/)
