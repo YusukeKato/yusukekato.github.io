@@ -7,6 +7,9 @@
 cd ~/.ssh
 ssh-keygen -t rsa # ex: RSA
 # Register id_rsa.pub on GitHub
+
+# 接続確認
+ssh -T git@github.com
 ```
 
 [Qiita - GitHubでssh接続する手順](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
