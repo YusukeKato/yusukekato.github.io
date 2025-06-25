@@ -20,6 +20,10 @@ YKpages is YusukeKato's notes.
 - [Ubuntu setup](./pages/linux/ubuntu_setup.md)
 - [Ubuntu tips](./pages/linux/ubuntu_tips.md)
 
+## Python
+- [Ruff](.pages/python/ruff.md)
+- [venv](.pages/python/venv.md)
+
 ## ROS 2
 - [colcon](./pages/ros2/colcon.md)
 - [Lifecycle](./pages/ros2/lifecycle.md)
@@ -27,6 +31,9 @@ YKpages is YusukeKato's notes.
 - [ROS 2 Install](./pages/ros2/ros2_install.md)
 - [rosdep](./pages/ros2/rosdep.md)
 - [URDF and SDF](./pages/ros2/urdf_and_sdf.md)
+
+## VSCode
+- [settings.json](./pages/vscode/settings.json)
 
 ## Access GitHub repository
 [GitHub - yusukekato.github.io](https://github.com/YusukeKato/yusukekato.github.io)
