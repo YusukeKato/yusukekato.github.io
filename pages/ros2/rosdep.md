@@ -16,6 +16,9 @@ rosdep update
 ```sh
 cd ~/ros2_ws/src
 rosdep install -r -y -i --from-paths .
+
+cd ~/ros2_ws
+rosdep install -r -y -i --from-paths src
 ```
 
 ![](../../images/BlueTreeIcon_200x200.jpg)
