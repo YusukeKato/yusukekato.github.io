@@ -21,8 +21,8 @@ YKpages is YusukeKato's notes.
 - [Ubuntu tips](./pages/linux/ubuntu_tips.md)
 
 ## Python
-- [Ruff](.pages/python/ruff.md)
-- [venv](.pages/python/venv.md)
+- [Ruff](./pages/python/ruff.md)
+- [venv](./pages/python/venv.md)
 
 ## ROS 2
 - [colcon](./pages/ros2/colcon.md)
