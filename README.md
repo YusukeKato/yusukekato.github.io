@@ -15,6 +15,7 @@ YKpages is YusukeKato's notes.
 - [Git](./pages/linux/git.md)
 - [nginx](./pages/linux/nginx.md)
 - [NVIDIA Driver Install](./pages/linux/nvidia_driver_install.md)
+- [swap](./pages/linux/swap.md)
 - [tmux](./pages/linux/tmux.md)
 - [Ubuntu Install](./pages/linux/ubuntu_install.md)
 - [Ubuntu setup](./pages/linux/ubuntu_setup.md)
