@@ -14,7 +14,7 @@ NAME      TYPE SIZE USED PRIO
 ```sh
 # スワップファイル作成
 sudo fallocate -l 16G /swapfile
-# sudo chmod 600 /swapfile
+sudo chmod 600 /swapfile
 # スワップ領域の作成
 sudo mkswap /swapfile
 # スワップの有効化
