@@ -37,6 +37,20 @@ sudo sysctl vm.swappiness=50
 echo 'vm.swappiness=50' | sudo tee -a /etc/sysctl.conf
 ```
 
+## test
+
+```sh
+sudo apt install stress-ng
+stress-ng --vm 1 --vm-bytes 95% --timeout 60s
+```
+
+## remove
+
+```sh
+sudo swapoff /swapfile
+sudo rm /swapfile
+```
+
 ![](../../images/BlueTreeIcon_200x200.jpg)
 
 [YKpages Home Page](https://yusukekato.github.io/)
