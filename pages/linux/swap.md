@@ -5,8 +5,7 @@
 ```sh
 $ swapon --show
 NAME      TYPE SIZE USED PRIO
-/swap.img file   4G   0B   -2
-/swapfile file  16G   0B   -3
+/swapfile file  16G   0B   -2
 ```
 
 ## how to
