@@ -32,9 +32,9 @@ echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
 # 確認
 cat /proc/sys/vm/swappiness
 # 設定
-sudo sysctl vm.swappiness=50
+sudo sysctl vm.swappiness=30
 # 自動的に設定
-echo 'vm.swappiness=50' | sudo tee -a /etc/sysctl.conf
+echo 'vm.swappiness=30' | sudo tee -a /etc/sysctl.conf
 ```
 
 ## test
