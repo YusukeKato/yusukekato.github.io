@@ -28,6 +28,11 @@ vim ~/.tmux.conf
 set-option -g mouse on
 ```
 
+設定を読み込み
+```sh
+tmux source-file ~/.tmux.conf
+```
+
 [参考](https://www.tohoho-web.com/ex/tmux.html)
 
 ![](../../images/BlueTreeIcon_200x200.jpg)
