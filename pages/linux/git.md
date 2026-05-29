@@ -62,6 +62,13 @@ git restore --source=<commit-id> -- <file-name>
 git revert <commit-id>
 ```
 
+## 空のコミットをpushする
+しばらく時間が経ってワークフローが無効状態になっていたところから有効にした後など
+```sh
+git commit --allow-empty -m "Trigger CI"
+git push
+```
+
 ![](../../images/BlueTreeIcon_200x200.jpg)
 
 [YKpages Home Page](https://yusukekato.github.io/)
